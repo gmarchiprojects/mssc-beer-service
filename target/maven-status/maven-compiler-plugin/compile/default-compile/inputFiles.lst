@@ -1,0 +1,5 @@
+/home/giovanni/Documents/Studies/MasterMicroservicesUdemy/mssc-beer-service/src/main/java/br/com/gmarchiprojects/msscbeerservice/MsscBeerServiceApplication.java
+/home/giovanni/Documents/Studies/MasterMicroservicesUdemy/mssc-beer-service/src/main/java/br/com/gmarchiprojects/msscbeerservice/web/model/BeerStyleEnum.java
+/home/giovanni/Documents/Studies/MasterMicroservicesUdemy/mssc-beer-service/src/main/java/br/com/gmarchiprojects/msscbeerservice/web/model/BeerDto.java
+/home/giovanni/Documents/Studies/MasterMicroservicesUdemy/mssc-beer-service/src/main/java/br/com/gmarchiprojects/msscbeerservice/web/controller/BeerController.java
+/home/giovanni/Documents/Studies/MasterMicroservicesUdemy/mssc-beer-service/src/main/java/br/com/gmarchiprojects/msscbeerservice/web/model/BeerPagedList.java
