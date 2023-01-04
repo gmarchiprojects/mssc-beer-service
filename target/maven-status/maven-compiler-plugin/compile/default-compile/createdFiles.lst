@@ -1,0 +1,11 @@
+br/com/gmarchiprojects/msscbeerservice/web/model/BeerPagedList.class
+br/com/gmarchiprojects/msscbeerservice/MsscBeerServiceApplication.class
+br/com/gmarchiprojects/msscbeerservice/repositories/BeerRepository.class
+br/com/gmarchiprojects/msscbeerservice/web/controller/MvcExceptionHandler.class
+br/com/gmarchiprojects/msscbeerservice/bootstrap/BeerLoader.class
+br/com/gmarchiprojects/msscbeerservice/domain/Beer$BeerBuilder.class
+br/com/gmarchiprojects/msscbeerservice/web/model/BeerDto$BeerDtoBuilder.class
+br/com/gmarchiprojects/msscbeerservice/web/model/BeerStyleEnum.class
+br/com/gmarchiprojects/msscbeerservice/domain/Beer.class
+br/com/gmarchiprojects/msscbeerservice/web/model/BeerDto.class
+br/com/gmarchiprojects/msscbeerservice/web/controller/BeerController.class
