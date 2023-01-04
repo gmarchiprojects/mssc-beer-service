@@ -1,6 +1,6 @@
 package br.com.gmarchiprojects.msscbeerservice.domain;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GenericGenerator;
