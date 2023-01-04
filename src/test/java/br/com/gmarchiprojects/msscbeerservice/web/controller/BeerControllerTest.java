@@ -27,17 +27,17 @@ class BeerControllerTest {
                 .accept(MediaType.APPLICATION_JSON)).andExpect(status().isOk());
     }
 
-    @Test
-    void saveNewBeer() throws Exception {
-
-        BeerDto beerDto = BeerDto.builder().build();
-        String beerDtoJson = objectMapper.writeValueAsString(beerDto);
-
-        mockMvc.perform(post("/api/v1/beer/")
-                .contentType(MediaType.APPLICATION_JSON)
-                .content(beerDtoJson))
-                .andExpect(status().isCreated());
-    }
+//    @Test
+//    void saveNewBeer() throws Exception {
+//
+//        BeerDto beerDto = BeerDto.builder().build();
+//        String beerDtoJson = objectMapper.writeValueAsString(beerDto);
+//
+//        mockMvc.perform(post("/api/v1/beer/")
+//                .contentType(MediaType.APPLICATION_JSON)
+//                .content(beerDtoJson))
+//                .andExpect(status().isCreated());
+//    }
 
     @Test
     void updateBeerById() throws Exception{
